@@ -1,7 +1,6 @@
 ## Solving problems with [LeetCode](https://leetcode.com/problemset/) 🟢🟡🔴
 
-### Algorithms 
-
+### Algorithms
 1   - [Two Sum](src/algorithms/easy/TwoSum.java) 🟢<br>
 7   - [Reverse Integer](src/algorithms/medium/ReverseInteger.java) 🟡<br>
 14  - [Longest Common Prefix](src/algorithms/easy/LongestCommonPrefix.java) 🟢<br>
@@ -19,3 +18,8 @@
 511 - [Game Play Analysis I](src/database/easy/game-play-analysis-i.sql) 🟢<br>
 577 - [Employee Bonus](src/database/easy/employee-bonus.sql) 🟢<br>
 584 - [Find Customer Referee](src/database/easy/find-customer-referee.sql) 🟢<br>
+595 - [Big Countries](src/database/easy/big-countries.sql) 🟢<br>
+596 - [Classes More Than 5 Students](src/database/easy/classes-more-than-5-students.sql) 🟢<br>
+619 - [Biggest Single Number](src/database/easy/biggest-single-number.sql) 🟢<br>
+1068 - [Product Sales Analysis I](src/database/easy/product-sales-analysis-i.sql)
+1407 - [Top Travellers](src/database/easy/top-travellers.sql)
