@@ -7,6 +7,8 @@
 20  - [Valid Parentheses](src/algorithms/easy/ValidParentheses.java) 🟢<br>
 21  - [Merge Two Sorted Lists](src/algorithms/easy/MergeTwoSortedLists.java) 🟢<br>
 26  - [Remove Duplicates from Sorted Array](src/algorithms/easy/RemoveDuplicatesFromSortedArray.java) 🟢<br>
+27  - [Remove Element]() 🟢<br>
+28  - [Find the Index of the First Occurrence in a String](src/algorithms/easy/FindTheIndexOfTheFirstOccurrenceInString.java) 🟢<br>
 35  - [Search Insert Position](src/algorithms/easy/SearchInsertPosition.java) 🟢<br>
 
 ### Database
@@ -21,5 +23,5 @@
 595 - [Big Countries](src/database/easy/big-countries.sql) 🟢<br>
 596 - [Classes More Than 5 Students](src/database/easy/classes-more-than-5-students.sql) 🟢<br>
 619 - [Biggest Single Number](src/database/easy/biggest-single-number.sql) 🟢<br>
-1068 - [Product Sales Analysis I](src/database/easy/product-sales-analysis-i.sql)
-1407 - [Top Travellers](src/database/easy/top-travellers.sql)
+1068 - [Product Sales Analysis I](src/database/easy/product-sales-analysis-i.sql) 🟢<br>
+1407 - [Top Travellers](src/database/easy/top-travellers.sql) 🟢<br>
