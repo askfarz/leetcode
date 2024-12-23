@@ -15,6 +15,7 @@
 58 - [Length of Last Word](src/algorithms/easy/LengthOfLastWord.java) 🟢<br>
 83 - [Remove Duplicates from Sorted List](src/algorithms/easy/RemoveDuplicatesFromSortedList.java) 🟢<br>
 88 - [Merge Sorted Array](src/algorithms/easy/MergeSortedArray.java) 🟢<br>
+104 - [Maximum Depth of Binary Tree](src/algorithms/easy/MaximumDepthOfBinaryTree.java) 🟢<br>
 
 ### Database
 
