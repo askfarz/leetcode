@@ -1,7 +1,14 @@
 package algorithms.easy;
 
+import algorithms.util.ListNode;
+
 public class MergeTwoSortedLists {
 
+    /**
+     * @param list1 singly-linked list {@link algorithms.util.ListNode}
+     * @param list2 singly-linked list {@link algorithms.util.ListNode}
+     * @return merged singly-linked list {@link algorithms.util.ListNode}
+     */
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list1 == null) {
             return list2;
@@ -28,25 +35,5 @@ public class MergeTwoSortedLists {
             pointer.next = list2;
         }
         return result.next;
-    }
-
-    /**
-     * Definition for singly-linked list.
-     */
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
     }
 }
