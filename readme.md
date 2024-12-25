@@ -18,6 +18,9 @@
 100 - [Same Tree](src/algorithms/easy/SameTree.java) 🟢<br>
 101 - [Symmetric Tree](src/algorithms/easy/SymmetricTree.java) 🟢<br>
 104 - [Maximum Depth of Binary Tree](src/algorithms/easy/MaximumDepthOfBinaryTree.java) 🟢<br>
+108 - [Convert Sorted Array to Binary Search Tree]() 🟢<br>
+111 - [Minimum Depth of Binary Tree]() 🟢<br>
+136 - [Single Number](src/algorithms/easy/SingleNumber.java) 🟢<br>
 
 ### Database
 
