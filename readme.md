@@ -22,6 +22,7 @@
 111 - [Minimum Depth of Binary Tree]() 🟢<br>
 136 - [Single Number](src/algorithms/easy/SingleNumber.java) 🟢<br>
 217 - [Contains Duplicate](src/algorithms/easy/ContainsDuplicate.java) 🟢<br>
+242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 
 ### Database
 
