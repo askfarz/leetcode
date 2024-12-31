@@ -24,6 +24,7 @@
 217 - [Contains Duplicate](src/algorithms/easy/ContainsDuplicate.java) 🟢<br>
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 844 - [Backspace String Compare](src/algorithms/easy/BackspaceStringCompare.java) 🟢<br>
+941 - [Valid Mountain Array](src/algorithms/easy/ValidMountainArray.java) 🟢<br>
 
 ### Database
 
