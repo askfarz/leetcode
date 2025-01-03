@@ -41,5 +41,6 @@
 596 - [Classes More Than 5 Students](src/database/easy/classes-more-than-5-students.sql) 🟢<br>
 619 - [Biggest Single Number](src/database/easy/biggest-single-number.sql) 🟢<br>
 620 - [Not Boring Movies](src/database/easy/not-boring-movies.sql) 🟢<br>
+1050 - [Actors and Directors Who Cooperated At Least Three Times]()
 1068 - [Product Sales Analysis I](src/database/easy/product-sales-analysis-i.sql) 🟢<br>
 1407 - [Top Travellers](src/database/easy/top-travellers.sql) 🟢<br>
