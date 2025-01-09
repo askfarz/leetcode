@@ -19,7 +19,7 @@
 101 - [Symmetric Tree](src/algorithms/easy/SymmetricTree.java) 🟢<br>
 104 - [Maximum Depth of Binary Tree](src/algorithms/easy/MaximumDepthOfBinaryTree.java) 🟢<br>
 108 - [Convert Sorted Array to Binary Search Tree]() 🟢<br>
-111 - [Minimum Depth of Binary Tree]() 🟢<br>
+111 - [Minimum Depth of Binary Tree](src/algorithms/easy/MinimumDepthOfBinaryTree.java) 🟢<br>
 136 - [Single Number](src/algorithms/easy/SingleNumber.java) 🟢<br>
 217 - [Contains Duplicate](src/algorithms/easy/ContainsDuplicate.java) 🟢<br>
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
