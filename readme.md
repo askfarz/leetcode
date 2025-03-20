@@ -1,4 +1,4 @@
-## Solving problems with [LeetCode](https://leetcode.com/problemset/) 🟢🟡🔴
+## Solving problems from [LeetCode](https://leetcode.com/problemset/) 🟢🟡🔴
 
 ### Algorithms
 
@@ -20,10 +20,13 @@
 104 - [Maximum Depth of Binary Tree](src/algorithms/easy/MaximumDepthOfBinaryTree.java) 🟢<br>
 108 - [Convert Sorted Array to Binary Search Tree]() 🟢<br>
 111 - [Minimum Depth of Binary Tree](src/algorithms/easy/MinimumDepthOfBinaryTree.java) 🟢<br>
+121 - [Best Time to Buy and Sell Stock](src/algorithms/easy/BestTimeToBuyAndSellStock.kt) 🟢 // TODO <br>
+125 - [Valid Palindrome](src/algorithms/easy/ValidPalindrome.java) 🟢<br>
 136 - [Single Number](src/algorithms/easy/SingleNumber.java) 🟢<br>
 217 - [Contains Duplicate](src/algorithms/easy/ContainsDuplicate.java) 🟢<br>
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 268 - [Missing Number](src/algorithms/easy/MissingNumber.kt) 🟢<br>
+344 - [Reverse String](src/algorithms/easy/ReverseString.java) 🟢<br>
 844 - [Backspace String Compare](src/algorithms/easy/BackspaceStringCompare.java) 🟢<br>
 941 - [Valid Mountain Array](src/algorithms/easy/ValidMountainArray.java) 🟢<br>
 977 - [Squares of a Sorted Array](src/algorithms/easy/SquaresOfSortedArray.java) 🟢<br>
@@ -42,6 +45,6 @@
 596 - [Classes More Than 5 Students](src/database/easy/classes-more-than-5-students.sql) 🟢<br>
 619 - [Biggest Single Number](src/database/easy/biggest-single-number.sql) 🟢<br>
 620 - [Not Boring Movies](src/database/easy/not-boring-movies.sql) 🟢<br>
-1050 - [Actors and Directors Who Cooperated At Least Three Times]()
+1050 - [Actors and Directors Who Cooperated At Least Three Times](src/database/easy/actors-and-directors-who-cooperated-at-least-three-times.sql) 🟢<br>
 1068 - [Product Sales Analysis I](src/database/easy/product-sales-analysis-i.sql) 🟢<br>
 1407 - [Top Travellers](src/database/easy/top-travellers.sql) 🟢<br>
