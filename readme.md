@@ -13,6 +13,7 @@
 28 - [Find the Index of the First Occurrence in a String](src/algorithms/easy/FindTheIndexOfTheFirstOccurrenceInString.java) 🟢<br>
 35 - [Search Insert Position](src/algorithms/easy/SearchInsertPosition.java) 🟢<br>
 58 - [Length of Last Word](src/algorithms/easy/LengthOfLastWord.java) 🟢<br>
+66 - [Plus One](src/algorithms/easy/PlusOne.java) 🟢<br>
 83 - [Remove Duplicates from Sorted List](src/algorithms/easy/RemoveDuplicatesFromSortedList.java) 🟢<br>
 88 - [Merge Sorted Array](src/algorithms/easy/MergeSortedArray.java) 🟢<br>
 100 - [Same Tree](src/algorithms/easy/SameTree.java) 🟢<br>
