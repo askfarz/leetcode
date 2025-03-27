@@ -28,6 +28,7 @@
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 268 - [Missing Number](src/algorithms/easy/MissingNumber.kt) 🟢<br>
 344 - [Reverse String](src/algorithms/easy/ReverseString.java) 🟢<br>
+841 - [Keys and Rooms](src/algorithms/medium/KeysAndRooms.java) 🟡<br>
 844 - [Backspace String Compare](src/algorithms/easy/BackspaceStringCompare.java) 🟢<br>
 941 - [Valid Mountain Array](src/algorithms/easy/ValidMountainArray.java) 🟢<br>
 977 - [Squares of a Sorted Array](src/algorithms/easy/SquaresOfSortedArray.java) 🟢<br>
