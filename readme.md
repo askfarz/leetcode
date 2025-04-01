@@ -24,7 +24,9 @@
 121 - [Best Time to Buy and Sell Stock](src/algorithms/easy/BestTimeToBuyAndSellStock.kt) 🟢 // TODO <br>
 125 - [Valid Palindrome](src/algorithms/easy/ValidPalindrome.java) 🟢<br>
 136 - [Single Number](src/algorithms/easy/SingleNumber.java) 🟢<br>
+206 - [Reverse Linked List](src/algorithms/easy/ReverseLinkedList.java) 🟢<br>
 217 - [Contains Duplicate](src/algorithms/easy/ContainsDuplicate.java) 🟢<br>
+234 - [Palindrome Linked List](src/algorithms/easy/PalindromeLinkedList.java) 🟢<br>
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 268 - [Missing Number](src/algorithms/easy/MissingNumber.kt) 🟢<br>
 344 - [Reverse String](src/algorithms/easy/ReverseString.java) 🟢<br>
