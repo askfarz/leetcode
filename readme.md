@@ -21,7 +21,7 @@
 104 - [Maximum Depth of Binary Tree](src/algorithms/easy/MaximumDepthOfBinaryTree.java) 🟢<br>
 108 - [Convert Sorted Array to Binary Search Tree]() 🟢<br>
 111 - [Minimum Depth of Binary Tree](src/algorithms/easy/MinimumDepthOfBinaryTree.java) 🟢<br>
-121 - [Best Time to Buy and Sell Stock](src/algorithms/easy/BestTimeToBuyAndSellStock.kt) 🟢 // TODO <br>
+121 - [Best Time to Buy and Sell Stock](src/algorithms/easy/BestTimeToBuyAndSellStock.kt) 🟢<br>
 125 - [Valid Palindrome](src/algorithms/easy/ValidPalindrome.java) 🟢<br>
 136 - [Single Number](src/algorithms/easy/SingleNumber.java) 🟢<br>
 206 - [Reverse Linked List](src/algorithms/easy/ReverseLinkedList.java) 🟢<br>
