@@ -4,7 +4,7 @@
 
 1 - [Two Sum](src/algorithms/easy/TwoSum.java) 🟢<br>
 7 - [Reverse Integer](src/algorithms/medium/ReverseInteger.java) 🟡<br>
-9 - [Palindrome Number]() 🟢 // TODO <br>
+9 - [Palindrome Number](src/algorithms/easy/PalindromeNumber.java) 🟢 <br>
 14 - [Longest Common Prefix](src/algorithms/easy/LongestCommonPrefix.java) 🟢<br>
 20 - [Valid Parentheses](src/algorithms/easy/ValidParentheses.java) 🟢<br>
 21 - [Merge Two Sorted Lists](src/algorithms/easy/MergeTwoSortedLists.java) 🟢<br>
@@ -30,6 +30,7 @@
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 268 - [Missing Number](src/algorithms/easy/MissingNumber.kt) 🟢<br>
 344 - [Reverse String](src/algorithms/easy/ReverseString.java) 🟢<br>
+387 - [First Unique Character in a String]() 🟢<br>
 841 - [Keys and Rooms](src/algorithms/medium/KeysAndRooms.java) 🟡<br>
 844 - [Backspace String Compare](src/algorithms/easy/BackspaceStringCompare.java) 🟢<br>
 941 - [Valid Mountain Array](src/algorithms/easy/ValidMountainArray.java) 🟢<br>
