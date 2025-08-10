@@ -31,8 +31,10 @@
 242 - [Valid Anagram](src/algorithms/easy/ValidAnagram.java) 🟢<br>
 268 - [Missing Number](src/algorithms/easy/MissingNumber.kt) 🟢<br>
 344 - [Reverse String](src/algorithms/easy/ReverseString.java) 🟢<br>
+347 - [Top K Frequent Elements](src/algorithms/medium/TopKFrequentElements.kt) 🟡<br>
 387 - [First Unique Character in a String]() 🟢<br>
 485 - [Max Consecutive Ones](src/algorithms/easy/MaxConsecutiveOnes.kt) 🟢<br>
+605 - [Can Place Flowers](src/algorithms/easy/CanPlaceFlowers.kt) 🟢<br>
 841 - [Keys and Rooms](src/algorithms/medium/KeysAndRooms.java) 🟡<br>
 844 - [Backspace String Compare](src/algorithms/easy/BackspaceStringCompare.java) 🟢<br>
 941 - [Valid Mountain Array](src/algorithms/easy/ValidMountainArray.java) 🟢<br>
